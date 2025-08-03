@@ -10,7 +10,7 @@ Hello, I am THET PAING KOKO. You can call me Ko Ko. Data Analyst in Progress. Ne
 - Visualization dashbord on Tableau
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [Projects]
+Welcome to my portfolio, where I showcase my [Projects] soon to display
 
 ###  Data Analysis Tools 🛠️
 
