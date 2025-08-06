@@ -19,7 +19,7 @@ Welcome to my portfolio, where I showcase my [Projects](https://github.com/THETP
 
 
 ### Connect with Me
-[LinkedIn] (https://www.linkedin.com/in/thet-paing-koko/)
+[LinkedIn](https://www.linkedin.com/in/thet-paing-koko/)
 
  
 
